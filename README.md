@@ -2,7 +2,7 @@
 
 A Todo List application built using React and `useReducer` for state management.
 
-![Todo Application Screenshot](screenshot.png)
+![Todo Application Screenshot](Sample 1.png)
 
 ## Description
 
