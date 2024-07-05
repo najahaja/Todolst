@@ -39,6 +39,7 @@ To get a local copy up and running follow these simple steps:
    git clone https://github.com/your-username/todo-application.git
 
 2.Navigate into the project directory:
+
      ```bash
      cd todo-application
 
