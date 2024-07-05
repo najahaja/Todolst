@@ -2,7 +2,6 @@
 
 A Todo List application built using React and `useReducer` for state management.
 
-![Todo Application Screenshot](Sample 1.png)
 
 ## Description
 
@@ -40,9 +39,10 @@ To get a local copy up and running follow these simple steps:
    git clone https://github.com/your-username/todo-application.git
 
 2.Navigate into the project directory:
-
-  cd todo-application
+     ```bash
+     cd todo-application
 
 3.Install dependencies:
 
-  npm install
+   ```bash
+     npm install
