@@ -40,7 +40,7 @@ To get a local copy up and running follow these simple steps:
 
 2.Navigate into the project directory:
 
-     ```bash
+
 
      
      cd todo-application
