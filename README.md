@@ -39,11 +39,13 @@ To get a local copy up and running follow these simple steps:
    git clone https://github.com/your-username/todo-application.git
 
 2. Navigate into the project directory:
-          ```bash
+
+   ```bash
               cd todo-application
 
    
 3.Install dependencies:
+    
      ```bash
          npm install
  
