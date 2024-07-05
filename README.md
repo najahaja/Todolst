@@ -1,3 +1,4 @@
+
 # Todo Application with React and useReducer
 
 A Todo List application built using React and `useReducer` for state management.
@@ -47,5 +48,6 @@ To get a local copy up and running follow these simple steps:
 3.Install dependencies:
     
      ```bash
+     
          npm install
  
