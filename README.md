@@ -49,6 +49,7 @@ To get a local copy up and running follow these simple steps:
 
    ```bash
      npm install
+
 4. To Connect Server:
 
       npm run dev
