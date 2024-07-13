@@ -47,7 +47,7 @@ To get a local copy up and running follow these simple steps:
 
 3.Install dependencies:
 
-   ```bash
+
      npm install
 
 4. To Connect Server:
